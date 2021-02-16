@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5,
+    "name": "Movie Title",
+    "banner": "https://source.unsplash.com/random",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "isWatched": true,
+    "rating": 0
+  },
+  {
+    "id": 4,
+    "name": "Movie Title",
+    "banner": "https://source.unsplash.com/random",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "isWatched": true,
+    "rating": 0
+  },
+  {
+    "id": 3,
+    "name": "Movie Title",
+    "banner": "https://source.unsplash.com/random",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "isWatched": false,
+    "rating": 0
+  },
+  {
+    "id": 2,
+    "name": "Movie Title",
+    "banner": "https://source.unsplash.com/random",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "isWatched": false,
+    "rating": 0
+  },
+  {
+    "id": 1,
+    "name": "Movie Title",
+    "banner": "https://material-ui.com/static/images/grid-list/camera.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "isWatched": false,
+    "rating": 0
+  }
+]
